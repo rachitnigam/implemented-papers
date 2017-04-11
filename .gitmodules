@@ -1,0 +1,6 @@
+[submodule "Automata-Learning"]
+	path = Automata-Learning
+	url = git@github.com:rachitnigam/Automata-Learning.git
+[submodule "dynamic-witness"]
+	path = dynamic-witness
+	url = https://github.com/rachitnigam/dynamic-witness
